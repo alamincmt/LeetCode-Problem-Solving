@@ -1,15 +1,10 @@
-package com.example.leetcode_problem_solving;
+package com.example.leetcode_problem_solving.LeetCode;
 
 import java.util.HashMap;
 import java.util.Map;
 
 class LeetCode0013 {
-
-    public static void main(String[] args){
-        System.out.println("Result is: " + romanToInt("MCIVX"));
-    }
-
-    public static int romanToInt(String s) {
+    public int romanToInt(String s) {
         Map<Character,Integer> numbersMap = new HashMap<>();
         numbersMap.put('I',1);
         numbersMap.put('V',5);

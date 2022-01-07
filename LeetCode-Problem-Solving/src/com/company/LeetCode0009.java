@@ -1,4 +1,4 @@
-package com.example.leetcode_problem_solving;
+package com.example.leetcode_problem_solving.LeetCode;
 
 public class LeetCode0009 {
 

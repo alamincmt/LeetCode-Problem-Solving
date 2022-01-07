@@ -1,5 +1,7 @@
+package com.example.leetcode_problem_solving.`LeetCode-Problem-Solving`.src.com.company
+
 class LeetCode0009 {
-    fun main(args: Array) {
+    /*fun main(args: Array) {
         isPalindrome(121)
     }
 
@@ -21,5 +23,5 @@ class LeetCode0009 {
         } else {
             false
         }
-    }
+    }*/
 }
